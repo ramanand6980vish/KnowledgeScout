@@ -1,3 +1,8 @@
+This project was built as a practice exercise to strengthen my development skills.
+It helped me understand project structure, version control using Git, and collaboration through GitHub.
+Through this project, I explored core concepts, problem-solving, and hands-on coding.
+The project is for learning purposes and is not deployed as a production application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
